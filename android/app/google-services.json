@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683037033723",
+    "project_id": "infinite-scrolling-76041",
+    "storage_bucket": "infinite-scrolling-76041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683037033723:android:d3dda7606128e8f9f19c5e",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683037033723-spji2j1aiipvs6m7ge93qodgiit0brbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG26u6f2gsDrtzWw8F8e2PqFg_SGm94q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683037033723-spji2j1aiipvs6m7ge93qodgiit0brbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
